@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @samulevizz.
+- 👀 I’m interested in game development, artificial intelligence, and web development.
+- 🌱 I’m currently learning Python, Flask, and React JS.
+- 💞️ I’m looking to collaborate on projects related to game development with Unity, AI, and full-stack web applications.
+- 📫 How to reach me: @_samu.880 on Instagram.
+- ⚡ Fun fact: I love creating AI-driven games and experimenting with new tech in my free time!
