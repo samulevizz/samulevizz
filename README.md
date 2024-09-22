@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samulevizz.
+- 👋 Hi, I’m Samuele Levizzari.
 - 👀 I’m interested in game development, artificial intelligence, and web development.
 - 🌱 I’m currently learning Python, Flask, and React JS.
 - 💞️ I’m looking to collaborate on projects related to game development with Unity, AI, and full-stack web applications.
