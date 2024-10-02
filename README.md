@@ -1,6 +1,4 @@
 - 👋 Hi, I'm Samuele Levizzari.
-- 👀 I'm passionate about game development and web development.
-- 🌱 I'm currently learning Python, Flask and ReactJS.
-- 💞️ I'm open to collaborating on game development projects (Unity or Pygame) and full-stack web applications.
+- 👀 I'm passionate about game development. I would like to study Computer Science in the future.
 - 📫 You can DM me on Instagram: @_samu.880
 - ⚡ Fun fact: I love creating video games and experimenting with new technologies in my spare time!
